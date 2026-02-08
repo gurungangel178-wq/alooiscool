@@ -54,22 +54,22 @@ const noPhrases = [
   "I am asking nicely though",
   "Please please?",
   "I'll give you a kiss",
-  "Okay, I'll buy you momos",
+  "D: u srsly sayinnn no to meeeeeee:(",
   "Cmon babyyy",
-  "Pwease yashuu",
+  "DO IT ARJUN PRATAP SINGH U BITCH",
   "I'll die if you dont say yes",
   "Oh no! I am dead",
   "I am a ghost now",
   "I'll haunt you if you dont say yes",
   "*ghost noises*",
   "*begging ghost noises*",
-  "Tujhe bridgerton ki kasam",
+  "Tujhe chicken breast ki kasam",
   "Last chance",
-  "Iske baad button hi htadega mai",
+  "Iske baad button hi htadegi mai",
 ];
 
 yesButton.addEventListener('click', () => {
-  text.textContent = 'Yaaaaaaaaayyyyyyyyyy!!!! I love you my valentine <3';
+  text.textContent = 'Yaaaaaaaaayyyyyyyyyy!!!! I love you my telephone pole <3';
   gif.src = 'https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif';
   yesButton.style.display = 'none';
   noButton.style.display = 'none';
